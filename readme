@@ -1,1 +1,4 @@
-test
+git add "file"
+git commit "file"
+git push -u origin master
+git pull
